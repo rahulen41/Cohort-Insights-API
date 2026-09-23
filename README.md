@@ -1,5 +1,5 @@
 # Cohort Insights API
-Cohort Insights API designed using FastAPI, MongoDB, Redis and Docker. The purpose of this project is to accept documents, process their content asynchronously through a two-stage pipeline, and return generated insights such as summaries and tags. (FastAPI + MongoDB + Redis service for a two-stage simulated content pipeline)
+Cohort Insights API designed using FastAPI, MongoDB, Redis and Docker. The purpose of this project is to accept documents, process their content asynchronously through a two-stage pipeline, and return generated insights such as summaries and tags (FastAPI + MongoDB + Redis service for a two-stage simulated content pipeline).
 
 ## Run
 ```bash
